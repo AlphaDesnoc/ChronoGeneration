@@ -1,0 +1,4 @@
+name: ChronoGeneration
+version: '${project.version}'
+main: com.chrono.chronogeneration.ChronoGeneration
+api-version: '1.20'

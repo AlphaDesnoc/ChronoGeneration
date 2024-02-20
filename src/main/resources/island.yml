@@ -1,0 +1,36 @@
+blocks:
+  block1:
+    material: BEDROCK
+    x: 0
+    y: 0
+    z: 0
+  block2:
+    material: STONE
+    x: 0
+    y: 1
+    z: 0
+  block3:
+    material: DIRT
+    x: 0
+    y: 2
+    z: 0
+  block4:
+    material: DIRT
+    x: 1
+    y: 2
+    z: 0
+  block5:
+    material: DIRT
+    x: -1
+    y: 2
+    z: 0
+  block6:
+    material: DIRT
+    x: 0
+    y: 2
+    z: 1
+  block7:
+    material: DIRT
+    x: 0
+    y: 2
+    z: -1
